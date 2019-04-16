@@ -1,3 +1,9 @@
+## 3.0.3 (2019-04-16)
+
+#### Minor Changes
+
+- Added fields to package.json in root folder of dist for bundling.
+
 ## 3.0.2 (2018-11-30)
 
 #### Minor Changes
